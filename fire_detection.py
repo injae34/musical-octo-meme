@@ -1,3 +1,4 @@
+# fire detection (finding number of red pixels)
 from picamera import PiCamera
 from time import sleep
 import cv2 as cv
